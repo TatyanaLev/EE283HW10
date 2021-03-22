@@ -1,0 +1,5 @@
+duplicates_marked_reordered_sorted_filtered_nR110-L1-G1-P001-GACGTAAG-GGCTTGGC-READ1-Sequences.fastq.bam
+duplicates_marked_reordered_sorted_filtered_nR110-L1-G1-P002-AGGCCTGA-TGACCGAG-READ1-Sequences.fastq.bam
+duplicates_marked_reordered_sorted_filtered_nR110-L1-G1-P003-TAAGATTA-AGCCTGCG-READ1-Sequences.fastq.bam
+duplicates_marked_reordered_sorted_filtered_nR110-L1-G1-P004-AGGCGAAT-GAGGACGC-READ1-Sequences.fastq.bam
+duplicates_marked_reordered_sorted_filtered_nR110-L1-G1-P005-TTGTTCTT-ACTTGTAG-READ1-Sequences.fastq.bam
