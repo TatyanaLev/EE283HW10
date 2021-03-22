@@ -66,3 +66,7 @@ total 27G
 -rw-rw-r-- 1 tzhuravl tzhuravl           2.8G Mar  5 00:17 P005-TTGTTCTT-ACTTGTAG.bam
 -rw-rw-r-- 1 tzhuravl class-ecoevo283-ta 406M Mar 21 22:05 P005-TTGTTCTT-ACTTGTAG.bam.bw
 ```
+
+## Results
+
+Pending :( the file transfers between hpc to laptop to cyverse to ucsc is taking all night. Maybe check back?
