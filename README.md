@@ -69,4 +69,9 @@ total 27G
 
 ## Results
 
-Pending :( the file transfers between hpc to laptop to cyverse to ucsc is taking all night. Maybe check back?
+So something didn't go right. 
+As you can see, each file reports "no data" for the entire chromosome (same thing when I zoom in). 
+I don't know what went wrong; the script was basically the same as for _Drosophila_, just updated for mouse stuff...
+
+
+![mouse_bigWigs.png](https://github.com/TatyanaLev/EE283HW10/blob/main/mouse_bigWigs.png)
